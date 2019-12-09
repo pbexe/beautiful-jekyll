@@ -82,3 +82,4 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+<iframe src="https://open.spotify.com/embed/album/1DFixLWuPkv3KT3TnV35m3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
