@@ -17,3 +17,4 @@ fields:
 - type: boolean
   name: comments
   label: comments
+  default: true
